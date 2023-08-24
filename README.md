@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Koushi Hiraoka 🚀</h3>
 <p align="center">
   <a href="https://github.com/KoushiHiraoka">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoushiHiraoka&count_private=true&theme=onedark" width="400"height="400">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
