@@ -24,7 +24,7 @@
 
 <h3 align="center">🏆 My GitHub Trophies 🏆</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoushiHiraoka&theme=onedark&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoushiHiraoka&theme=onedark&column=5">
 </p>
 
 <!--
