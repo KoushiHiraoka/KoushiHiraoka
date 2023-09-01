@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushiHiraoka&langs_count=8&layout=compact&title_color=81A1C1&text_color=ECEFF4&bg_color=2E3440&icon_color=D8DEE9&border_radius=10" />
 </p>
 
 
