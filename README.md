@@ -11,7 +11,9 @@
 
 
 <p align="center">
+  <!--
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
+  -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KoushiHiraoka&count_private=true&theme=onedark" width="400">
 </p>
 
